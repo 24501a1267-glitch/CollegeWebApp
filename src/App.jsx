@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-const API_URL = "https://fsd-pnu4.onrender.com";
+const API_URL = "https://collegewebapp-backend.onrender.com";
 
 function App() {
   const [page, setPage] = useState("login");
